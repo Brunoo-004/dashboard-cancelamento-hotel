@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
-imblearn
+scikit-learn==1.2.2
+scikit-learn-contrib-imblearn==0.10.1
 plotly
 seaborn
 matplotlib
